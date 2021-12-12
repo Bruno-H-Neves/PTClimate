@@ -8,3 +8,6 @@ Versao 1.1:
 Versao 1.2:
 - Exibe grafico de todos os dias do dataset
 - Exibe grafico com a dialidade dia actual e ultimos 3 dias
+Versao 1.3:
+- Exibir valores minimos, medios e maximos para todos os dias do dataset e estacao definida
+
