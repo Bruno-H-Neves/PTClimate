@@ -5,3 +5,6 @@ Versao 1:
 Versao 1.1:
 - Exibe grafico de erros de medida
 - Exibe grafico de registos para o dia escolhido
+Versao 1.2:
+- Exibe grafico de todos os dias do dataset
+- Exibe grafico com a dialidade dia actual e ultimos 3 dias
