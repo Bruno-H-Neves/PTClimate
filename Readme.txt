@@ -10,4 +10,6 @@ Versao 1.2:
 - Exibe grafico com a dialidade dia actual e ultimos 3 dias
 Versao 1.3:
 - Exibir valores minimos, medios e maximos para todos os dias do dataset e estacao definida
+Versao 1.4:
+- Exibir no mapa de acordo com  o sistema de coordenadas (x,y)
 
